@@ -1,0 +1,25 @@
+Tote Sort Schedudler v 0.9.8.3:
+	
+	1) Added function in date picker to clear calendar and reset all day cells to gray.
+	2) Reformatted code in date checker form and changed the following var type from INT to BOOL
+		> Selected_Item as Boolean
+		> Test_Pass to Selected_Item
+	3) Added Purple color to weekend days to make them stand out more.
+	
+Tote Sort Schedudler v 0.9.9:
+
+	1) Added option to email out sheet
+	2) Added EE Emails
+	3) Fixed Edit EE form so that proper preferences show up when EE is loaded
+	4) Changed All form colors to proper scheme
+
+Tote Sort Schedudler v 1.0.0:
+
+	1) Fixed Bux where "employee edit" form had multiple blank spaces added to it.
+	2) Added Function to cocatenate email addresses string
+	3) Fixed Bug where month on calendar screen did not update
+	3) Fixed Subject Line and created body of email
+	
+
+
+	
